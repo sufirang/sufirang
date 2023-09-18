@@ -51,8 +51,6 @@
 
 
 
-
-
 <!-- ### Hi there 👋, I am [SUFIA](https://sufirang.github.io/)! 😁
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -70,7 +68,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Sufia Bano. I am a Frontend Developer. My technology stack involves Java Core, MySQL, javascript, React.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
+Hello, my name is Sufia Bano. Currently doing Internship as a Full Stack Web Developer, I have been gaining hands-on experience in a range 
+Frontend technologies, including Redux, React Js, Rest API's, JavaScript,BootStrap, Css/HTML, Java, Oops, SQL, Data Structures.
 
 <!-- - 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/) -->
 - 💬 Brainstorm with me over tech, algorithms, career, and music
@@ -81,7 +80,7 @@ Hello, my name is Sufia Bano. I am a Frontend Developer. My technology stack inv
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I'm Akas, a self-motivated tech enthusiast and full stack web developer.
+I'm Sufia, a self-motivated tech enthusiast and full stack web developer.
 </p>
 
 <h4 align="center">
@@ -98,5 +97,5 @@ My Tech Stacks
 
 <h3 align="center">
 <!-- <img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/> -->
-</h3>
- -->
+</h3> -->
+ 
